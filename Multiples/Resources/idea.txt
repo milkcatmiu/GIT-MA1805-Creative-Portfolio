@@ -1,0 +1,6 @@
+program generates 3 random words
+user can select one of 3 words at the bottom
+the words get added to a big word bank at the top
+when user is done, let them click 'Done'
+and then the words will do something cool like they will write themselves out 
+and then become very cool
