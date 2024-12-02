@@ -10,6 +10,8 @@ new different facial expressions. I applied filters such as halftone and glitch 
 
 The background is a picture I took of the sky outside of my house, which I then filtered to be darker and more deeper in colour.
 
+The background music is a song I made using FL Studio which loops throughout the program. 
+
 The visual raindrops were inspired by this p5js sketch by user zygugi:
 https://editor.p5js.org/zygugi/sketches/H1-5-1p5W
 
