@@ -1,0 +1,42 @@
+
+Media
+
+This piece is a collection of different photos and videos that I took recently, with descriptions of 
+their date, location and some thoughts associated with them. 
+
+The majority of my photos focus on the sky and nature as I always tend to take photos of the sky, clouds
+and sunsets during my outings. 
+
+This piece reflects the peace I have found in life lately, the selection of images being from times in my life
+where I felt happy with where I was. I find that it's important to value these moments in life, as it's easy
+to get lost in your own sadness and struggles.
+
+I didn't find the coding aspect too difficult as the majority of the code is cycling through arrays, however
+it was difficult working with asset creation:
+
+I took the photos on my iPhone and they originally are created in a very large resolution. 
+I edited my photos in Procreate and Photoshop, applying the halftone filter and different effects to create a more
+digital look to the photos, similar to that of early 2000s graphics. 
+However when I exported these photos they were HUGE (around 10-20mb each) and I ended up needing to resize them
+and compress the data. This resulted in me using JPEG files, which usually would be a problem due to lossy compression 
+but it didn't matter as low quality images suited the overall retro aesthetic of my media piece.
+
+The same issue occured with the video files - I didn't filter them as I wasn't sure how to apply visual filters and
+didn't want to spend too much time on assets as time management is not my strongest suit. I used Premier Pro to resize
+the images to a smaller resolution and similarly greatly compressed their size. 
+
+For the click sound effect, I recorded the clicking of my mouse using my iPhone's voice notes app and converted the
+.m4a files into mp3 files. I made some tweaks to the sfx in Audacity, filtering out the background white noise, 
+increasing the speed of the click and raising the pitch slightly. 
+
+I created a background by taking a screenshot of my taskbar on my computer and applying different filters and colour changes
+to suit a pinkish theme. I then used the same colours to create a top bar too. I then layed these on top of a picture
+I took of some clouds and applied a blur filter in Photoshop. I originally didn't blur the background but it looked too
+visually overwhelming, so blurring the background put a lot of emphasis on the foreground elements.
+
+I found coding each different screen wasn't too difficult for me as I had experience making different screens of a program
+from making a game in pycharm when I was in sixth form, so the programming concepts were not challenging for me.
+
+I did however struggle a bit with loading the videos as I forgot that you had to hide the element and redraw the videos
+as images. 
+
