@@ -14,10 +14,10 @@ let dropletsfx = [];
 //create array for current droplet sfx
 
 let soundfiles = [
-  'Resources/Audio/Droplet1.wav',
-  'Resources/Audio/Droplet2.wav',
-  'Resources/Audio/Droplet3.wav',
-  'Resources/Audio/Droplet4.wav'
+  'Resources/Audio/droplet1.wav',
+  'Resources/Audio/droplet2.wav',
+  'Resources/Audio/droplet3.wav',
+  'Resources/Audio/droplet4.wav'
 ]
 
 let bgm1volume=1;
@@ -26,19 +26,19 @@ let currentbg = 2;
 let rainygirl = [];
 //array for current background image
 let imagefiles = [
-  'Resources/Images/RainyGirl1.png',
-  'Resources/Images/RainyGirl2.png',
-  'Resources/Images/RainyGirl3.png',
-  'Resources/Images/RainyGirl4.png',
-  'Resources/Images/RainyGirl5.png',
-  'Resources/Images/RainyGirl6.png',
-  'Resources/Images/RainyGirl7.png',
-  'Resources/Images/RainyGirl8.png',
-  'Resources/Images/RainyGirl9.png',
-  'Resources/Images/RainyGirl10.png',
-  'Resources/Images/RainyGirl11.png',
-  'Resources/Images/RainyGirl12.png',
-  'Resources/Images/RainyGirl13.png'
+  'Resources/Images/rainygirl1.png',
+  'Resources/Images/rainygirl2.png',
+  'Resources/Images/rainygirl3.png',
+  'Resources/Images/rainygirl4.png',
+  'Resources/Images/rainygirl5.png',
+  'Resources/Images/rainygirl6.png',
+  'Resources/Images/rainygirl7.png',
+  'Resources/Images/rainygirl8.png',
+  'Resources/Images/rainygirl9.png',
+  'Resources/Images/rainygirl10.png',
+  'Resources/Images/rainygirl11.png',
+  'Resources/Images/rainygirl12.png',
+  'Resources/Images/rainygirl13.png'
 ]
 
 //creates string array containing all droplet sound effects' paths
@@ -52,7 +52,7 @@ function preload(){
   for (let i=0; i<imagefiles.length; i++){
     rainygirl[i] = loadImage(imagefiles[i]);
   }
-  bgm1 = loadSound('Resources/Audio/Nostalgic Sad Loop.mp3');
+  bgm1 = loadSound('Resources/Audio/nostalgicloop.mp3');
   //loads the background music audio file
 
   for (let i=0; i<=3; i++){
